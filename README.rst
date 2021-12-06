@@ -1,5 +1,5 @@
 ========================================
-😎 kombu - Messaging library for Python
+😎 kombu - Messaging library for Python 🥳
 ========================================
 
 |build-status| |coverage| |license| |wheel| |pyversion| |pyimp| |downloads|
